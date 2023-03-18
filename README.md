@@ -1,7 +1,7 @@
 # Dog-Breed-Recommendation-System
 
 ## Demo Link:
-https://www.youtube.com/watch?v=dgY-zvHb3cY (Dog breed visualisation)
+https://www.youtube.com/watch?v=dgY-zvHb3cY (Dog breed information visualisation)
 
 https://youtu.be/ddgXhrWABoc (Connection between python shiny input and postgresql)
 
